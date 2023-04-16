@@ -2,7 +2,7 @@ import styled from "@emotion/styled";
 
 export const ProfileContainer = styled.div`
   width: 600px;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 12px;
   border: 2px dotted grey;
   background-color: #ffdab9;
